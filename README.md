@@ -38,3 +38,8 @@ I'm a **UX/UI Engineer** and **Full-stack Indie Builder** with a knack for turni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUI&layout=compact&theme=dark)
 
 <!-- You can customize the theme, hide specific repos, etc. Check out the github-readme-stats repo for full options: https://github.com/anuraghazra/github-readme-stats -->
+
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
