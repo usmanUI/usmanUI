@@ -1,21 +1,21 @@
 # Hi, I'm Usman Dawoodi!
 
-I'm a **UX/UI Engineer** and **full-stack indie builder**. My focus is on transforming complex requirements into functional, user-centric web applications. I specialize in merging strong design principles with robust front-end development, particularly for B2B, B2C, SaaS, and AI-driven platforms.
+I'm a **UX/UI Engineer** and **full-stack indie builder**. My focus is on turning complex needs into functional, user-friendly web applications. I specialize in blending solid design with robust front-end development, especially for B2B, B2C, SaaS, and AI-driven platforms.
 
 ---
 
 ### My Expertise & Impact:
 
-*   **End-to-End Product Delivery:** I manage the entire product lifecycle, from user research and wireframing in Figma/Framer to building responsive front-ends using modern frameworks like React and Next.js.
-*   **Design System Development:** I've built reusable design systems and UI libraries, which significantly reduce iteration cycles and enhance team efficiency.
-*   **Quantifiable Results:** I've improved application usability by 40% on key SaaS/AI platforms and reduced design-to-development turnaround time by 45% by handling dual design and development roles.
-*   **Cross-Functional Collaboration:** I collaborate effectively with product managers, developers, and QA teams in agile environments, ensuring smooth handoffs and efficient project delivery.
+*   **End-to-End Product Delivery:** I handle the whole cycle, from user research and wireframing in Figma/Framer to building responsive front-ends using modern frameworks like React and Next.js.
+*   **Design System Development:** I've built reusable design systems and UI libraries. This cuts down iteration cycles and makes teams work better.
+*   **Proven Results:** I've boosted app usability by 40% on key SaaS/AI platforms and reduced design-to-development time by 45% by taking on dual roles.
+*   **Team Collaboration:** I work well with product managers, developers, and QA in agile setups, making sure everything runs smooth and projects ship on time.
 
 ---
 
 ### My Toolkit:
 
-Here's a look at the technologies and tools I work with:
+Here’s a look at the tech and tools I use:
 
 **Design & Prototyping:**
 
@@ -61,18 +61,19 @@ Here's a look at the technologies and tools I work with:
 
 ### Connect With Me:
 
-Feel free to reach out if you'd like to discuss projects or potential collaborations.
+Let's link up!
 
-*   **LinkedIn:** [https://www.linkedin.com/in/usman-dawoodi-225590247/](https://www.linkedin.com/in/usman-dawoodi-225590247/)
-*   **Portfolio:** [https://usmandawoodi.framer.website/](https://usmandawoodi.framer.website/)
 *   **Email:** mail.usmandawoodi@gmail.com
-*   **Phone:** +92-316-2000187 (Serious inquiries only, please)
+*   **Portfolio:** [https://usmandawoodi.framer.website/](https://usmandawoodi.framer.website/)
+*   **LinkedIn:** [https://www.linkedin.com/in/usman-dawoodi-225590247/](https://www.linkedin.com/in/usman-dawoodi-225590247/)
+*   **Behance:** [Your Behance Profile URL here]
+*   **Medium:** [Your Medium Profile URL here]
 
 ---
 
 ### My GitHub Stats (Public Activity):
 
-These dynamic cards reflect my public repository activity. Please note: they primarily display contributions to public repositories.
+These dynamic cards show my public GitHub activity. Heads up: they mostly reflect contributions to public repos.
 
 ![UsmanUI GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
