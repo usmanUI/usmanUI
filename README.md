@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Usman! 👋
 
-<!--
-**usmanUI/usmanUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **UX/UI Engineer** and **Full-stack Indie Builder** obsessed with bringing software ideas to life. I specialize in crafting intuitive user experiences and building robust web applications from the ground up, handling everything from design mocks to deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Currently Building:
+
+*   **[Project Name 1]**: Short description and link. (e.g., A SaaS boilerplate for indie hackers.)
+*   **[Project Name 2]**: Short description and link. (e.g., A design system for React apps.)
+
+---
+
+### My Toolkit:
+
+**Languages:** JavaScript, TypeScript, HTML, CSS
+**Frameworks/Libraries:** React, Next.js, Svelte, Node.js, Express
+**Databases:** PostgreSQL, MongoDB
+**Design:** Figma, Adobe XD
+**Other:** Git, Docker, AWS (or specific cloud services you use)
+
+---
+
+### Find Me Around the Web:
+
+*   [Your Portfolio Website] (If you have one)
+*   [Your Twitter Handle]
+*   [Your LinkedIn Profile]
+*   [Your Blog/Dev.to Profile] (If you have one)
+
+---
+
+### Quick Stats:
