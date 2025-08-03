@@ -33,10 +33,6 @@ I'm a **UX/UI Engineer** and **Full-stack Indie Builder** with a knack for turni
 
 ### My GitHub Stats:
 
-(Yeah, these are the "charts and cool stuff"!)
-
-These dynamic cards give a quick overview of your activity. You gotta generate them using a service like `github-readme-stats`. Here's how you'd typically include them:
-
 ![UsmanUI GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUI&layout=compact&theme=dark)
