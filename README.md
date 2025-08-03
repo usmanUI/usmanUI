@@ -1,21 +1,21 @@
-# Hey, I'm Usman Dawoodi! 👋
+# Hi, I'm Usman Dawoodi!
 
-I'm a **UX/UI Engineer** and **Full-stack Indie Builder** with a knack for turning complex ideas into functional, beautiful web applications. My sweet spot is blending cutting-edge design with robust front-end development, especially for B2B, B2C, SaaS, and AI-based platforms. I thrive on building intuitive user experiences and shipping high-quality code.
-
----
-
-### What I Do:
-
-*   **Crafting End-to-End Solutions:** From user research and wireframing in Figma/Framer to pixel-perfect, responsive front-end development using React/Next.js and modern UI frameworks.
-*   **Building Design Systems:** Developed reusable design systems and UI libraries, cutting iteration cycles and boosting team efficiency.
-*   **Driving Impact:** Improved usability by 40% on AI/SaaS platforms and reduced design-to-development time by 45% by owning dual design and dev roles.
-*   **Cross-Functional Collaboration:** Fluent in Agile/Scrum, I ensure smooth handoffs and project delivery.
+I'm a **UX/UI Engineer** and **full-stack indie builder**. My focus is on transforming complex requirements into functional, user-centric web applications. I specialize in merging strong design principles with robust front-end development, particularly for B2B, B2C, SaaS, and AI-driven platforms.
 
 ---
 
-### My Toolkit (aka My Stack, with some color!):
+### My Expertise & Impact:
 
-Here's a quick look at the tech and tools I mess with regularly.
+*   **End-to-End Product Delivery:** I manage the entire product lifecycle, from user research and wireframing in Figma/Framer to building responsive front-ends using modern frameworks like React and Next.js.
+*   **Design System Development:** I've built reusable design systems and UI libraries, which significantly reduce iteration cycles and enhance team efficiency.
+*   **Quantifiable Results:** I've improved application usability by 40% on key SaaS/AI platforms and reduced design-to-development turnaround time by 45% by handling dual design and development roles.
+*   **Cross-Functional Collaboration:** I collaborate effectively with product managers, developers, and QA teams in agile environments, ensuring smooth handoffs and efficient project delivery.
+
+---
+
+### My Toolkit:
+
+Here's a look at the technologies and tools I work with:
 
 **Design & Prototyping:**
 
@@ -53,24 +53,26 @@ Here's a quick look at the tech and tools I mess with regularly.
 ![Usability Testing](https://img.shields.io/badge/Usability%20Testing-5A2D81?style=for-the-badge&logoColor=white)
 ![Interaction Design](https://img.shields.io/badge/Interaction%20Design-FF5722?style=for-the-badge&logoColor=white)
 ![Information Architecture](https://img.shields.io/badge/Info%20Architecture-00796B?style=for-the-badge&logoColor=white)
-![WCAG](https://img.shields.io/badge/WCAG-2C3E50?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2196F3?style=for-the-badge&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG-2C3E50?style=for-the-badge&logo=accessibility&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2196F3?style=for-the-badge&logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-FFC107?style=for-the-badge&logoColor=white)
-
 
 ---
 
 ### Connect With Me:
 
+Feel free to reach out if you'd like to discuss projects or potential collaborations.
+
 *   **LinkedIn:** [https://www.linkedin.com/in/usman-dawoodi-225590247/](https://www.linkedin.com/in/usman-dawoodi-225590247/)
 *   **Portfolio:** [https://usmandawoodi.framer.website/](https://usmandawoodi.framer.website/)
 *   **Email:** mail.usmandawoodi@gmail.com
+*   **Phone:** +92-316-2000187 (Serious inquiries only, please)
 
 ---
 
 ### My GitHub Stats (Public Activity):
 
-(Just a heads-up: these dynamic cards only pick up public repo activity, so if most of your work's private, they'll look a bit bare. Still, good to have for anything you do push publicly!)
+These dynamic cards reflect my public repository activity. Please note: they primarily display contributions to public repositories.
 
 ![UsmanUI GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
