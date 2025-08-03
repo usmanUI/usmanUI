@@ -1,6 +1,6 @@
 # Hi, I'm Usman Dawoodi!
 
-I'm a **UX/UI Engineer** and **full-stack indie builder**. My focus is on turning complex needs into functional, user-friendly solutions. I specialize in blending solid design with robust front-end development, especially for B2B, B2C, SaaS, and AI-driven platforms.
+I'm a **UX/UI Engineer** and **full-stack indie builder**. My focus is on turning complex needs into functional, user-friendly solutions. I specialize in blending solid design principles with robust front-end development, especially for B2B, B2C, SaaS, and AI-driven platforms.
 
 ---
 
