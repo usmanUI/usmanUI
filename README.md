@@ -47,15 +47,22 @@ Here’s a look at the tech and tools I use:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+**AI Tools:**
+
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-blue.svg?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-5A2D81?style=for-the-badge&logo=openai&logoColor=white)
+![T3.Chat](https://img.shields.io/badge/T3.Chat-orange.svg?style=for-the-badge&logoColor=white)
+
 **UX Principles & Methodologies:**
 
 ![User Research](https://img.shields.io/badge/User%20Research-0056B3?style=for-the-badge&logoColor=white)
 ![Usability Testing](https://img.shields.io/badge/Usability%20Testing-5A2D81?style=for-the-badge&logoColor=white)
-![Interaction Design](https://img.shields.io/badge/Interaction%20Design-FF5722?style=for-the-badge&logoColor=white)
+![Interaction Design](https://img.shields.io/badge/Interaction%20Design-FF5722?style=for-the-badge&logo=figma&logoColor=white)
 ![Information Architecture](https://img.shields.io/badge/Info%20Architecture-00796B?style=for-the-badge&logoColor=white)
 ![WCAG](https://img.shields.io/badge/WCAG-2C3E50?style=for-the-badge&logo=accessibility&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2196F3?style=for-the-badge&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-FFC107?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-FFC107?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
