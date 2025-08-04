@@ -73,7 +73,7 @@ Here’s a look at the tech and tools I use:
 Let's link up!
 
 *   **Email:** mail.usmandawoodi@gmail.com
-*   **Portfolio:** [https://usmandawoodi.framer.website/](https://usmandawoodi.framer.website/)
+*   **Portfolio:** https://byusman.com/
 *   **LinkedIn:** [https://www.linkedin.com/in/usman-dawoodi-225590247/](https://www.linkedin.com/in/usman-dawoodi-225590247/)
 *   **Behance:** https://www.behance.net/usmandawoodi
 *   **Medium:** https://medium.com/@muhammad.usman_34737
