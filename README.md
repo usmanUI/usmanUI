@@ -65,25 +65,3 @@ Here’s a look at the tech and tools I use:
 ![WCAG](https://img.shields.io/badge/WCAG-2C3E50?style=for-the-badge&logo=accessibility&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2196F3?style=for-the-badge&logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-FFC107?style=for-the-badge&logo=trello&logoColor=white)
-
----
-
-### Connect With Me:
-
-Let's link up!
-
-*   **Email:** mail.usmandawoodi@gmail.com
-*   **Portfolio:** https://byusman.com/
-*   **LinkedIn:** [https://www.linkedin.com/in/usman-dawoodi-225590247/](https://www.linkedin.com/in/usman-dawoodi-225590247/)
-*   **Behance:** https://www.behance.net/usmandawoodi
-*   **Medium:** https://medium.com/@muhammad.usman_34737
-
----
-
-### My GitHub Stats (Public Activity):
-
-These dynamic cards show my public GitHub activity. Heads up: they mostly reflect contributions to public repos.
-
-![UsmanUI GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUI&layout=compact&theme=dark)
