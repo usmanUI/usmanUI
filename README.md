@@ -4,11 +4,10 @@ I'm a **Design Engineer** and **full-stack indie builder**. My focus is on turni
 
 ---
 
-### My Expertise & Impact:
+### My Expertise:
 
 *   **End-to-End Product Delivery:** I handle the whole cycle, from user research and wireframing in Figma/Framer to building responsive front-ends using modern frameworks like React and Next.js.
 *   **Design System Development:** I've built reusable design systems and UI libraries. This cuts down iteration cycles and makes teams work better.
-*   **Proven Results:** I've boosted app usability by 40% on key SaaS/AI platforms and reduced design-to-development time by 45% by taking on dual roles.
 *   **Team Collaboration:** I work well with product managers, developers, and QA in agile setups, making sure everything runs smooth and projects ship on time.
 
 ---
