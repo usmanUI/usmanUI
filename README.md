@@ -12,7 +12,7 @@ UX Engineer & indie builder. Passionate about finding solutions to real world pr
 
 ## Stack
 
-**AI:** Cursor, Lovable, Claude, ChatGPT,   
+**AI:** Figma MCP, Cursor, Lovable, Claude, ChatGPT,   
 **Design:** Figma, Adobe XD, Miro, Framer  
 **Code:** TypeScript, JavaScript, React, Next.js, Angular  
 **Styling:** Tailwind, Material UI, Ant Design, Bootstrap  
