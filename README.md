@@ -1,6 +1,6 @@
 # Hi, I'm Usman Dawoodi
 
-UX Engineer & indie builder. Passionate about finding solutions to real world problems.
+UX Engineer & indie builder. Takes products from concept to working frontend.
 
 ## What I Do
 
